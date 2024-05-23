@@ -1,0 +1,20 @@
+{
+  "name": "f1k2-guest-verification-cli-project7869",
+  "version": "2.0.1",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "farwa-kanwal",
+  "license": "MIT",
+  "description": "This project will verify if user's entered name is present in today invited list",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
